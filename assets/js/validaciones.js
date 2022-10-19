@@ -38,7 +38,7 @@ const mensajesDeError = {
     },
     nacimiento: {
         valueMissing: "Este campo no puede estar vacío.",
-        customError: "Debes tener al menos 18 años o una autorización especial.",
+        customError: "Debes tener al menos 18 años o una autorización especial.", /*L*/
     },
     numero: {
         valueMissing: "Este campo no puede estar vacío.",
